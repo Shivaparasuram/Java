@@ -1,0 +1,53 @@
+JAVA
+
+definition
+high level object oriented used to build all kind of s/w.
+
+features
+
+Robust
+secure
+independent
+distributed
+dynamic
+inherit
+
+
+
+Data types
+
+
+
+throw --
+-inside method
+-throw data or variable
+-one at a time
+
+throws --
+-in method signature
+-multiple exceptions
+
+
+
+method
+call   no call
+
+
+
+class                interface
+
+object create        cant create obj
+extent               implements
+                     abstract method
+
+
+        GIT
+
+
+
+
+
+
+
+
+
