@@ -56,3 +56,26 @@ git remote remove origin -- if duplicate exist
 
 	HTTP
 ask for login all the time
+
+
+
+    PUSH
+
+
+
+
+    SSH
+Generate a Special key
+Don't ask login all the time
+
+
+    COMMANDS
+mkdir JFSJD   //create new project
+cd JFSJD  // go inside the project
+ls  //check any files are there
+pwd // current location
+echo "hello developers" >> abc.txt //echo to write in abc file
+cat abc.txt //read directly
+
+
+
