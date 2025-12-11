@@ -68,6 +68,8 @@ ask for login all the time
 Generate a Special key
 Don't ask login all the time
 
+we need key before v go to
+ssh-keygen -o (generate key)
 
     COMMANDS
 mkdir JFSJD   //create new project
