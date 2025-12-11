@@ -87,9 +87,9 @@ ls -a //show all the file created like ssh file(inside tht v have .pub file that
 git remote -v//1.local to remote (push)
              //2.remote to local (fetch)
 
-touch //create mt file
-echo "" >> filName.ex   // insert with data long term
-echo "" > filName.ex   // insert with data short term
+touch a.txt //create mt file
+echo "HELLO" >> filName.ex   // insert with data long term
+echo "HIII" > filName.ex   // insert with data short term
 cp a.text c.txt    //copy from one file to other
 mv b.txt a.txt    //move b to a
 rm c.txt      //remove c
@@ -97,3 +97,10 @@ ls -a // view all files
 rm -r Folder name   // delete the folder
 
 
+    IN COMMAND PROMPT
+type to read
+copy a.txt           //copy
+dir              // to see files
+/q /s Java         //to delete folder with files
+del Java       // delete single file
+type nul>a.txt   //null file
