@@ -34,7 +34,7 @@ CD //change location
 git init // create MT repository
 commit  //save
 
-git add filename.extention          // to add single file
+git add filename.extension          // to add single file
 git add .                          //to add all the file
 git commit                        // to save
 git commit -m"first message"     //with message
@@ -53,4 +53,6 @@ git log  //know history
 
 
 git remote remove origin -- if duplicate exist
+
 	HTTP
+ask for login all the time
