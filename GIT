@@ -1,0 +1,56 @@
+GIT
+- multiple ppl can work on a same project at the same time (fast deployment)
+-Revert to the older version if the new version as some bug of fails
+
+
+GIT is a Technology
+GIT-HUB is a platform
+
+
+
+	TYPES
+LOCA --- within ones Sys
+CENTRALIZED --- Collab , but cant be Backup when crashed
+DISTRIBUTED --- Collab ,Can be Backup when crashed    -- e.g.. Bitbucket ,Git-Hub
+
+
+
+git config --global user.name "Shiva Parasuram R"  // name
+git config --global user.email "shivaparasuramr@gmail.com  //email
+git config --global --list                   //Check the name and email (Return Info)
+
+HTTP ask login all the time
+SSH -one time login -- read automatically login credentials
+
+
+MANIPULATE REPOSATORY
+commad prompt
+git bash
+
+
+
+CD //change location
+
+git init // create MT repository
+commit  //save
+
+git add filename.extention          // to add single file
+git add .                          //to add all the file
+git commit                        // to save
+git commit -m"first message"     //with message
+
+
+two Branches -
+main  branch
+Master branch
+
+
+git branch -M main
+can create new branch also
+
+know who did the changes
+git log  //know history
+
+
+git remote remove origin -- if duplicate exist
+	HTTP
