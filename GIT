@@ -59,14 +59,17 @@ ask for login all the time
 
 
 
-    PUSH
+    PUSH (only update in existing file)
 
-
+git add GIT
+git commit -m "Update"
+git push -u origin main
 
 
     SSH
 Generate a Special key
 Don't ask login all the time
+create the key always outside the project
 
 we need key before v go to
 ssh-keygen -o (generate key)
@@ -78,6 +81,19 @@ ls  //check any files are there
 pwd // current location
 echo "hello developers" >> abc.txt //echo to write in abc file
 cat abc.txt //read directly
+cd //come out of project
+ls -a //show all the file created like ssh file(inside tht v have .pub file that is the ssh key use cat id to see)
 
+git remote -v//1.local to remote (push)
+             //2.remote to local (fetch)
+
+touch //create mt file
+echo "" >> filName.ex   // insert with data long term
+echo "" > filName.ex   // insert with data short term
+cp a.text c.txt    //copy from one file to other
+mv b.txt a.txt    //move b to a
+rm c.txt      //remove c
+ls -a // view all files
+rm -r Folder name   // delete the folder
 
 
