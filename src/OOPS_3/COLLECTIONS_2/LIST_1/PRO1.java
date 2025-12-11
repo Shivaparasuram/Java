@@ -10,6 +10,7 @@ public class PRO1 {
         Names.add("B S Yashwanth");
         Names.add("Vishal M P");
         Names.add("Vishal M P");
+        Names.add("Naveen !x");
         System.out.println(Names);
 
     }
