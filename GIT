@@ -89,7 +89,7 @@ git remote -v//1.local to remote (push)
 
 touch a.txt //create mt file
 echo "HELLO" >> filName.ex   // insert with data long term
-echo "HIII" > filName.ex   // insert with data short term
+echo "Hii" > filName.ex   // insert with data short term
 cp a.text c.txt    //copy from one file to other
 mv b.txt a.txt    //move b to a
 rm c.txt      //remove c
