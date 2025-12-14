@@ -9,7 +9,7 @@ GIT-HUB is a platform
 
 
 	TYPES
-LOCA --- within ones Sys
+LOCAL --- within ones Sys
 CENTRALIZED --- Collab , but cant be Backup when crashed
 DISTRIBUTED --- Collab ,Can be Backup when crashed    -- e.g.. Bitbucket ,Git-Hub
 
