@@ -18,7 +18,7 @@ public class MIRROR_REVERSE {
                 }
 
             }
-            System.out.println("  ");
+            System.out.println(" ");
         }
     }
 }
