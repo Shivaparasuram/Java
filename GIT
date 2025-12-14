@@ -72,7 +72,6 @@ Don't ask login all the time
 create the key always outside the project
 
 we need key before v go to
-ssh-keygen -o (generate key)
 
     COMMANDS
 mkdir JFSJD   //create new project
@@ -103,4 +102,4 @@ copy a.txt           //copy
 dir              // to see files
 /q /s Java         //to delete folder with files
 del Java       // delete single file
-type nul>a.txt   //null file
+type nul>a.txt   //create null file
