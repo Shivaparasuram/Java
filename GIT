@@ -126,3 +126,5 @@ git branch --al  // return all the branches (remotes/origin/main)
 git checkout -b Dude //Switched to a new branch 'Dude and create
 git checkout shiva  // shift branches
 git switch -c Dude  //Switched to a new branch 'Dude and create
+git branch -d Shiva  // del branch
+git merge Dude // merge all the data to main only no other possible
