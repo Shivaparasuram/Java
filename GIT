@@ -96,6 +96,7 @@ ls -a // view all files
 rm -r Folder name   // delete the folder
 
 
+
     IN COMMAND PROMPT
 type to read
 copy a.txt       //copy
@@ -107,3 +108,7 @@ type nul>a.txt   //create null file
 
 
 TAGS -- (different versions)
+
+CLONE -- git clone (link of project)
+git log --pretty=oneline  /// see only the commit comment without the name and mail
+git tag // see total tags (total versions released)
