@@ -63,6 +63,7 @@ ask for login all the time
 git add GIT
 git commit -m "Update"
 git push -u origin main
+git remote -v  /// see url of repoo
 
 
     SSH
@@ -97,8 +98,8 @@ rm -r Folder name   // delete the folder
 
     IN COMMAND PROMPT
 type to read
-copy a.txt           //copy
+copy a.txt       //copy
 dir              // to see files
-/q /s Java         //to delete folder with files
-del Java       // delete single file
+/q /s Java       //to delete folder with files
+del Java         // delete single file
 type nul>a.txt   //create null file
