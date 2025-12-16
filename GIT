@@ -109,22 +109,6 @@ type nul>a.txt   //create null file
 
 TAGS -- (different versions)
 
-git tag   // list of tags
-git tag S1.0 -m "Message"  // create a tag
-git push -u origin S1.0   // push the tag with the version
-
-
 CLONE -- git clone (link of project)
 git log --pretty=oneline  /// see only the commit comment without the name and mail
 git tag // see total tags (total versions released)
-git tag -d S3.0   // delete but not reflect in github
-git push origin :refs/tags/S3.0    /// delete from git
-
-
-git reset --soft HEAD~1 //latest commit undo commit
-git branch --al  // return all the branches (remotes/origin/main)
-git checkout -b Dude //Switched to a new branch 'Dude and create
-git checkout shiva  // shift branches
-git switch -c Dude  //Switched to a new branch 'Dude and create
-git branch -d Shiva  // del branch
-git merge Dude // merge all the data to main only no other possible
