@@ -70,6 +70,7 @@ git remote -v  /// see url of repoo
 Generate a Special key
 Don't ask login all the time
 create the key always outside the project
+.pub  //extentsion
 
 we need key before v go to
 
@@ -82,6 +83,7 @@ echo "hello developers" >> abc.txt //echo to write in abc file
 cat abc.txt //read directly
 cd //come out of project
 ls -a //show all the file created like ssh file(inside tht v have .pub file that is the ssh key use cat id to see)
+remove directory /q /s
 
 git remote -v//1.local to remote (push)
              //2.remote to local (fetch)
@@ -96,6 +98,7 @@ ls -a // view all files
 rm -r Folder name   // delete the folder
 
 
+type file name  //
 
     IN COMMAND PROMPT
 type to read
@@ -104,11 +107,24 @@ dir              // to see files
 /q /s Java       //to delete folder with files
 del Java         // delete single file
 type nul>a.txt   //create null file
+rmdir /q /s folder name    //to del data and file inside folder
 
 
 
 TAGS -- (different versions)
+git tag
+git tag  S1.0 //create new tag
+git push origin  S1.0  // push tag
+git tag -d S1.0  //delete tag
+
 
 CLONE -- git clone (link of project)
 git log --pretty=oneline  /// see only the commit comment without the name and mail
 git tag // see total tags (total versions released)
+
+git switch -c branch name       // switch and create new branch
+git checkout -b  branch name  // switch and create new branch
+git merge <branch_name>   //merge
+
+git reset --soft HEAD~1  //undo commit lastest
+git reset --hard HEAD~1  //delete commit
