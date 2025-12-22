@@ -10,7 +10,7 @@ public class EVEN_vs_ODD {
         if(num%2==0){
             System.out.println("EVEN BRO!");
         }
-        else{
+        else {
             System.out.println("ODD BUDDY!");
         }
 

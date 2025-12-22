@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class PRO1 {
     static void main() {
-
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter the Name :");
         String Name = sc.nextLine();
@@ -18,7 +17,7 @@ public class PRO1 {
         System.out.println("Enter the phone :");
         long phone=sc.nextLong();
 
-        System.out.println(Name+ " "+age+" " +num +" " +phone);
+        System.out.println("Name is "+Name+"\n Age is "+age+"\nNumber is " +num +"\nPhone" +phone);
 
 
 

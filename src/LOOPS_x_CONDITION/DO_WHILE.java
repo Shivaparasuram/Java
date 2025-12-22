@@ -6,16 +6,11 @@ public class DO_WHILE {
     //EXECUTE AT LEAST ONCE EVEN FALSE CON
 
     static void main(String[] args) {
-
-
-        int i=0;
-
-
+        int i=6;
         do {
             System.out.println(i);
             i++;
-
-        }while (i<=10);
+        }while (i<=5);
     }
 
 }

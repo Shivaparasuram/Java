@@ -112,7 +112,8 @@ rmdir /q /s folder name    //to del data and file inside folder
 
 
 TAGS -- (different versions)
-git tag
+
+git tag  // see total tags (total versions released)
 git tag  S1.0 //create new tag
 git push origin  S1.0  // push tag
 git tag -d S1.0  //delete tag
@@ -120,7 +121,6 @@ git tag -d S1.0  //delete tag
 
 CLONE -- git clone (link of project)
 git log --pretty=oneline  /// see only the commit comment without the name and mail
-git tag // see total tags (total versions released)
 
 git switch -c branch name       // switch and create new branch
 git checkout -b  branch name  // switch and create new branch
@@ -128,3 +128,7 @@ git merge <branch_name>   //merge
 
 git reset --soft HEAD~1  //undo commit lastest
 git reset --hard HEAD~1  //delete commit
+
+
+git checkout -c branch name
+git switch -b branch name
