@@ -18,7 +18,7 @@ class B1 implements Runnable {
 
     public void run() {
         for (int i = 0; i < 5; i++) {
-            System.out.println("Java Developer from B2!");
+            System.out.println("Python Developer from B2!");
             try {
                 Thread.sleep(500);
             } catch (Exception e) {

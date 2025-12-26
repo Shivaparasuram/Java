@@ -10,7 +10,7 @@ single action in many ways
 /*
 
 TYPES 2
-1.compile time poly(one class) --- method overloading -- same class -- multiple method same name different parameters
+1.compile time poly(one class) --- method overloading -- same class -- multiple method, same name, different parameters
        advantages -- readability  and  usability
 
 2.run time poly (multi class) ---  method overriding -- same method name in both parent and child class -- same or different parameters

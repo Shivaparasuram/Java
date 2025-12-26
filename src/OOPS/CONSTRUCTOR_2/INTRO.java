@@ -2,7 +2,7 @@ package OOPS.CONSTRUCTOR_2;
 
 
 /*
-constructor is a special method which is use to initialize obj
+constructor is a special method which is used to initialize obj
 constructor calls by default only declare
 
 preferred for storing variable to obj        *********
@@ -14,9 +14,9 @@ no return type(void int etc)
 
 /*
 SYNTAX
-class Class name
+class Class_name
 {
-class name()
+class_name()
       {
             }
 }

@@ -14,12 +14,12 @@ BY Java API
 2.Binary file - images ,non-readable , can't edit,non text  e.g. mp3, exe, jpg
 
      TYPES FOR CREATING
-1.File.creatNewFile() --  method  -- empty file -- true if file created else false
+1.File.createNewFile() --  method  -- empty file -- true if file created else false
 -- cant create multi files from same name -- give failed
 
     SYNTAX
  File obj = new File("Example.txt");
- obj.creatNewFile();
+ obj.createNewFile();
 
 2.FileOutputStream() -- constructor --its like open pipe and pour data into file
 --preferred for Binary files --- more control over how to write data into file

@@ -8,7 +8,7 @@ e.g. e-commerce ,arraylist,linked list,Hashmap(Quantity),Treemap(categories)
     SYNTAX
 Collection<DT> collection_Name = new SomeCollection Implementation <>();
 
-Types
+    Types
 1.List I - ArrayList ,Linked list ,Vector  ,Stack
 2.Queue I - 1.Queue I - priority queue(Ascending ,Descending) , 2.Deque I -Array Deque
 3.Set I - HashSet ,LinkedHashSet 2.SortedSet  -TreeSet

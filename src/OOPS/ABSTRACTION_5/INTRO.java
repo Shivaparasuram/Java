@@ -10,7 +10,7 @@ Abstract method---as only declaration nobody but provided by subclass(Body)     
 only method signature nobody
 
 Abstract class --- v can create obj --- access by inheritance
-whn can I say it is abstract class --- at-least one abstract method then v can say it is abstract class
+whn can I say it is abstract class --- at-least one abstract method
 
  */
 
