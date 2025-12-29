@@ -28,8 +28,6 @@ MANIPULATE REPOSITORY
 command prompt
 git bash
 
-
-
 CD //change location
 git init // create MT repository
 commit  //save
