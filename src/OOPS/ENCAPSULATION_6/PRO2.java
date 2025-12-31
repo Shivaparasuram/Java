@@ -43,6 +43,5 @@ public class PRO2 {
         obj.setLocation("Bombay !");
         System.out.println("Name "+obj.getName()+"\nCollege "+obj.getCname()+"\nRegister no. "+obj.getReg()+"\nAddress "+obj.getLocation());
 
-
     }
 }
