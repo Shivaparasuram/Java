@@ -16,8 +16,7 @@ BFS(breath First Search)
 
  2.Deque I -Array Deque
  - array and stack operation are combo
- (push and pop from Stack
- Offer and
+ (push(), pop(),offer(), poll(), and peek().)
  INSERTION AND DELETION FROM BOTH THE END
 
 

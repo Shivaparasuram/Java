@@ -2,6 +2,7 @@ package INTERVIEW;
 
 import java.util.Scanner;
 
+/// Narcissistic number !
 /// number of digit to its lent power e.g. 153 and 1634  1^3+5^3+3^3 where 3 is the length
 
 public class ARMSTRONG {
