@@ -1,7 +1,7 @@
 package OOPS_3.COLLECTIONS_2.LIST_1;
 /*
 Collection I  - group of collection of  interface and pre-defined classes
-it s tool box
+its tool box
 can be manipulated --- insert delete etc.
 e.g. e-commerce ,arraylist,linked list,Hashmap(Quantity),Treemap(categories)
 
