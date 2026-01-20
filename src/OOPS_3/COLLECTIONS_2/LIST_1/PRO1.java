@@ -5,13 +5,11 @@ import java.util.Collection;
 
 public class PRO1 {
     static void main(String[] args) {
-        Collection<String> Names =new ArrayDeque<>();
-        Names.add("Naveen !x");
-        Names.add("B S Yashwanth");
-        Names.add("Vishal M P");
-        Names.add("Vishal M P");
-        Names.add("Naveen !x");
-        System.out.println(Names);
+        Collection<Integer> num = new ArrayDeque<>();
+        num.add(2);
+        num.add(4);
+        num.add(6);
+        System.out.println(num);
 
     }
 }
