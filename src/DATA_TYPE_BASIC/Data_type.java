@@ -13,6 +13,7 @@ public class Data_type {
         double d=23343.2;
         float f=12.345f;
         char ch='X';
+        String st="Dude !";
 
         System.out.println(b);
         System.out.println(a);
