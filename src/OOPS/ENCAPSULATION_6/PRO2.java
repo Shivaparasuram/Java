@@ -14,7 +14,8 @@ class College{
     }
     public void setReg(int Reg1){
         Reg=Reg1;
-    }public void setLocation(String Location1){
+    }
+    public void setLocation(String Location1){
         Location=Location1;
     }
 
