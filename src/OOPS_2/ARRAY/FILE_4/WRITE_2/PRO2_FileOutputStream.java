@@ -6,7 +6,7 @@ public class PRO2_FileOutputStream {
     public static void main (String[] args)
     {
         String content ="Hello Java Developers !";
-       try( FileOutputStream obj= new FileOutputStream("Lion.txt")){
+       try( FileOutputStream obj= new FileOutputStream("Lion._0INTRO")){
            byte[] bytes=content.getBytes();
            obj.write(bytes);
 

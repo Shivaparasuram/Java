@@ -10,7 +10,7 @@ delete
 BY Java API
 
     TYPES
-1.Text file - lyrics of song ,readable , edit ,text , e.g. txt, csv, xml, files
+1.Text file - lyrics of song ,readable , edit ,text , e.g. _0INTRO, csv, xml, files
 2.Binary file - images ,non-readable , can't edit,non text  e.g. mp3, exe, jpg
 
      TYPES FOR CREATING
@@ -18,7 +18,7 @@ BY Java API
 -- cant create multi files from same name -- give failed
 
     SYNTAX
- File obj = new File("Example.txt");
+ File obj = new File("Example._0INTRO");
  obj.createNewFile();
 
 2.FileOutputStream() -- constructor --its like open pipe and pour data into file

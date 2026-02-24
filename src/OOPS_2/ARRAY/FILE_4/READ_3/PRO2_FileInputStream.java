@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 
 public class PRO2_FileInputStream {
     static void main(String[] args) {
-        try(FileInputStream obj=new FileInputStream("four.txt"))
+        try(FileInputStream obj=new FileInputStream("four._0INTRO"))
         {
             int Data ;
             while ((Data= obj.read())!=-1)

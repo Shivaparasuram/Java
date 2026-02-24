@@ -6,7 +6,7 @@ import java.io.FileWriter;
 public class PRO1_FileWriter {
      static void main(String[] args) {
 
-        File obj =new File("three.txt");
+        File obj =new File("three._0INTRO");
 
         try
         {
@@ -17,7 +17,7 @@ public class PRO1_FileWriter {
             {
                 System.out.println("Mission failed !");
             }
-            FileWriter obj2= new FileWriter("three.txt");
+            FileWriter obj2= new FileWriter("three._0INTRO");
             obj2.write("Hello BuddiezZz !");
             obj2.close();
         }

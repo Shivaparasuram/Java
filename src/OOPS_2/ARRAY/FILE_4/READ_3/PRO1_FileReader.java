@@ -5,7 +5,7 @@ import java.io.FileReader;
 public class PRO1_FileReader {
     static void main(String[] args) {
 
-        try (FileReader obj = new FileReader("four.txt"))
+        try (FileReader obj = new FileReader("four._0INTRO"))
         {
             int Data ;   // Print single char
             while ((Data= obj.read())!=-1)

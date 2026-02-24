@@ -8,7 +8,7 @@ public class PRO3_FilesWrite {
         String content ="DEMO JAVA";
         try
         {
-            Files.write(Paths.get("Eight.txt"),content.getBytes());
+            Files.write(Paths.get("Eight._0INTRO"),content.getBytes());
 
         } catch (Exception e) {
             throw new RuntimeException(e);

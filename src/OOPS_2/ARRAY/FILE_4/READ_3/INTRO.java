@@ -19,7 +19,7 @@ int byteData = stream.read();
 3.File.readAllLines() -- method --all line at once text file -- line by line from list --
 
     SYNTAX
-List <String> obj =Files.readAllLine(Paths.get("filename.txt"));
+List <String> obj =Files.readAllLine(Paths.get("filename._0INTRO"));
 
 
  */

@@ -4,7 +4,7 @@ import java.io.File;
 
 public class PRO1 {
     public static void main(String[] args){
-        File file = new File("one11.txt");
+        File file = new File("one11._0INTRO");
         if (file.exists())
         {
             if(file.delete())
